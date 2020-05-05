@@ -1,7 +1,7 @@
 # Azure Serbia User Group
 Repository for presentations and code files used on Azure Serbia User Group meetings.
 
-![Azure Serbia](https://azuresaturday.rs/wp-content/uploads/2019/08/cropped-AzureSaturdayLogo-2-1.png)
+![Azure Serbia](azure-serbia.png)
 
 |**Date**|**Speaker**|**Session**|**Content**|**Presentation Video**|
 |-|-|-|-|-|
