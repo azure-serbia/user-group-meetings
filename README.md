@@ -10,4 +10,4 @@ Repository for presentations and code files used on Azure Serbia User Group meet
 |16.06.2020.|Srdjan Zivojinovic|Azure Key Vault i .NET Core|[Deck & Demos](https://github.com/zsrdjan/presentations/tree/master/azure-meetup-key-vault)|[YouTube Video](https://www.youtube.com/watch?v=6t2mR_wKjS4)|
 |14.07.2020.|Thomas Maurer|Manage and govern your hybrid servers using Azure Arc|[Deck & Demos](https://github.com/azure-serbia/user-group-meetings/blob/master/decks%20and%20demos/thomas-maurer-manage-and-govern-your-hybrid-servers-using-azure-arc.pdf)|[YouTube Video](https://www.youtube.com/watch?v=bSWEQhXtSl4)|
 |10.09.2020.|Mustafa Toroman|Gdje je sigurnost u DevOps?|[Deck & Demos]()|[YouTube Video](https://youtu.be/sYK_1x_CP3o)|
-|05.11.2020.|Milos Katinski|DevOps through the prism of the Sys Admins|[Deck & Demos](https://github.com/azure-serbia/user-group-meetings/blob/master/decks%20and%20demos/milos-katinski-devops-through-the-prism-of-the-sys-admins.pptx)|[YouTube Video](https://youtu.be/_pwrvVn8ci0)|
+|05.11.2020.|Milos Katinski|DevOps through the prism of the Sys Admins||[YouTube Video](https://youtu.be/_pwrvVn8ci0)|
